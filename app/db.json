@@ -1,0 +1,103 @@
+{
+    "products": [
+        {	
+            "id": 0,
+            "name": "Bacardi 151",
+            "image": "prod-1.jpg",
+            "salePrice": "$69.00",
+            "price": "$49.00",
+            "category": "Brandy",
+            "available": 80
+        },
+        {	
+            "id": 1,
+            "name": "Jim Beam Kentucy Straight",
+            "image" :"prod-2.jpg",
+            "bestSaler": "$69.00",
+            "price": "$69.00",
+            "category": "Gin",
+            "available": 90
+        },
+        {	
+            "id": 2,
+            "name": "Citadelle",
+            "image": "prod-3.jpg",
+            "newProduct": "true",
+            "price": "$69.00",
+            "category": "Rum",
+            "available": 100
+        },
+        {	
+            "id": 3,
+            "name": "The Glenlivet",
+            "image": "prod-4.jpg",
+            "price": "$69.00",
+            "category": "Rum",
+            "available": 75
+        },
+        {	
+            "id": 4,
+            "name": "Black Label",
+            "image": "prod-5.jpg",
+            "price": "$69.00",
+            "category": "Whiskey",
+            "available": 60
+        },
+        {	
+            "id": 5,
+            "name": "Macallan",
+            "image": "prod-6.jpg",
+            "price": "$69.00",
+            "category": "Tequila",
+            "available": 80
+        },
+        {	
+            "id": 6,
+            "name": "Old Monk",
+            "image": "prod-7.jpg",
+            "price": "$69.00",
+            "category": "Vodka",
+            "available": 45
+        },
+        {	
+            "id": 7,
+            "name": "Jameson Irish Whisky",
+            "image": "prod-8.jpg",
+            "price": "$69.00",
+            "category": "Whiskey",
+            "available": 90
+        },
+        {	
+            "id": 8,
+            "name": "Screwball",
+            "image": "prod-9.jpg",
+            "price": "$69.00",
+            "category": "Whiskey",
+            "available": 110
+        },
+        {	
+            "id": 9,
+            "name": "Jack Daniel's",
+            "image": "prod-10.jpg",
+            "price": "$69.00",
+            "category": "Whiskey",
+            "available": 110
+        },
+        {	
+            "id": 10,
+            "name": "McClelland's",
+            "image": "prod-11.jpg",
+            "price": "$69.00",
+            "category": "Whiskey",
+            "available": 110
+        },
+        {	
+            "id": 11,
+            "name": "Plantation",
+            "image": "prod-12.jpg",
+            "price": "$69.00",
+            "category": "Whiskey",
+            "available": 85
+        }
+    ]
+}
