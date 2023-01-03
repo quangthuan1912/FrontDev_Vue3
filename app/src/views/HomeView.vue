@@ -268,68 +268,7 @@ export default defineComponent({
   name: 'HomeView',
 	data() {
 		return {
-			hinh: 'about.jpg',
-			// products: [
-			// 	{	
-			// 		id: 0,
-			// 		name: 'Bacardi 151',
-			// 		image: 'prod-1.jpg',
-			// 		salePrice: '$69.00',
-			// 		price: '$49.00',
-			// 		category: 'Brandy',
-			// 	},
-			// 	{	
-			// 		id: 1,
-			// 		name: 'Jim Beam Kentucky Straight',
-			// 		image: 'prod-2.jpg',
-			// 		bestSaler: '$69.00',
-			// 		price: '$69.00',
-			// 		category: 'Gin',
-			// 	},
-			// 	{	
-			// 		id: 2,
-			// 		name: 'Citadelle',
-			// 		image: 'prod-3.jpg',
-			// 		newProduct: 'true',
-			// 		price: '$69.00',
-			// 		category: 'Rum',
-			// 	},
-			// 	{	
-			// 		id: 3,
-			// 		name: 'The Glenlivet',
-			// 		image: 'prod-4.jpg',
-			// 		price: '$69.00',
-			// 		category: 'Rum',
-			// 	},
-			// 	{	
-			// 		id: 4,
-			// 		name: 'Black Label',
-			// 		image: 'prod-5.jpg',
-			// 		price: '$69.00',
-			// 		category: 'Whiskey',
-			// 	},
-			// 	{	
-			// 		id: 5,
-			// 		name: 'Macallan',
-			// 		image: 'prod-6.jpg',
-			// 		price: '$69.00',
-			// 		category: 'Tequila',
-			// 	},
-			// 	{	
-			// 		id: 6,
-			// 		name: 'Old Monk',
-			// 		image: 'prod-7.jpg',
-			// 		price: '$69.00',
-			// 		category: 'Vodka',
-			// 	},
-			// 	{	
-			// 		id: 7,
-			// 		name: 'Jameson Irish Whiskey',
-			// 		image: 'prod-8.jpg',
-			// 		price: '$69.00',
-			// 		category: 'Whiskey',
-			// 	},
-			// ]
+			hinh: 'about.jpg',		
 		}
 	},
 	components: {

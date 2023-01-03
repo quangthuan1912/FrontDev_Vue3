@@ -98,6 +98,15 @@
             "price": "$69.00",
             "category": "Whiskey",
             "available": 85
+        },
+        {	
+            "id": 12,
+            "name": "Tequila Sierra",
+            "newProduct": "true",
+            "image": "prod-13.jpg",
+            "price": "$69.00",
+            "category": "Tequila",
+            "available": 85
         }
     ]
 }
